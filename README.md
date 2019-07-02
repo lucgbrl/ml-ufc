@@ -13,7 +13,7 @@
   > . / codes / fuzzy.py
   
   <p align="center">
-    <img src="https://github.com/cardosorrenan/ia-ufc/blob/master/codes/img/q02.png" width="450">
+    <img src="https://github.com/cardosorrenan/ia-ufc/blob/master/codes/img/q02.png" width="600">
   </p>
   
 ---
